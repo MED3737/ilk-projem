@@ -1,14 +1,8 @@
-# while ile şifre kontrol
-ifre = "1234"
-kalan_hak = 3
-while kalan_hak > 0:
-    gsifre = input("şifrenizi giriniz ")
-    if gsifre == sifre:
-        print("doğru şifre ")
-        break
-    else:
-        kalan_hak -= 1
-        print("yanlış şifre, kalan hak ", kalan_hak)
-    if kalan_hak == 0:
-     print("hakkınız bitti, çıkış yapılıyor")
-    
+Bu ilk metin tabanlı oyunum, telif hakları saklıdır izinsiz çoğaltılınamaz,herhangi bir şirketten bağımsız oluşturulmuştur...
+içinde şu anlık bir sürü mantık hataı var ama en kısa sürede füzelteceğim. hedeflerim sırasıyla:
+Mantık hatalarını temizlemek
+Oyuna bir kaç içerik daha eklemek
+2D görsel oyun haline getirmek
+Oynamaya değecek kadar geliştirmek
+
+saygılarımla...
