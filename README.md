@@ -4,6 +4,6 @@ Mantık hatalarını temizlemek
 Oyuna bir kaç içerik daha eklemek
 2D görsel oyun haline getirmek
 Oynamaya değecek kadar geliştirmek
-not:hedef bir tamam, untitled 2 dosyası hatasız o kodlar
+not:hedef bir tamam, untitled 2 dosyası hatasız kodlar
 
 saygılarımla...
